@@ -2,6 +2,7 @@
     "name": "project_md3",
     "version": "1.0.0",
     "dependencies": {
+        "http": "^0.0.1-security",
         "mysql": "^2.18.1",
         "qs": "^6.11.0"
     }
